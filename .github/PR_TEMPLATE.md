@@ -13,3 +13,6 @@ This [Contributor License Agreement](https://cla-assistant.io/coqui-ai/TTS):
 - Protects you, Coqui, and the users of the code.
 - Does not change your rights to use your contributions for any purpose.
 - Does not change the license of the 🐸TTS project. It just makes the terms of your contribution clearer and lets us know you are OK to contribute.
+
+## Запуск команд
+- Никакие команды не запускаются скрыто. Перед запуском требуется явное указание запуска и краткое описание.
